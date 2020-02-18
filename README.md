@@ -29,6 +29,7 @@ The activity of visiting places of interest in a particular location
 - [Дом Раневской](https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D0%B7%D0%B5%D0%B9_%D0%A4%D0%B0%D0%B8%D0%BD%D1%8B_%D0%A0%D0%B0%D0%BD%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9)
 - [Круглый дом](https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D1%83%D0%B3%D0%BB%D1%8B%D0%B9_%D0%B4%D0%BE%D0%BC_(%D0%A2%D0%B0%D0%B3%D0%B0%D0%BD%D1%80%D0%BE%D0%B3))
 - [Дом Рафаиловича](https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BC_%D0%A0%D0%B0%D1%84%D0%B0%D0%B8%D0%BB%D0%BE%D0%B2%D0%B8%D1%87%D0%B0)
+- [Дом Волкова-Реми](https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BC_%D0%92%D0%BE%D0%BB%D0%BA%D0%BE%D0%B2%D0%B0-%D0%A0%D0%B5%D0%BC%D0%B8)
 - [Дом Папкова](https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BC_%D0%9F%D0%B0%D0%BF%D0%BA%D0%BE%D0%B2%D0%B0)
 
 
