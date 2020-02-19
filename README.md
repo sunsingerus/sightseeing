@@ -19,6 +19,7 @@ The activity of visiting places of interest in a particular location
 - [Мужская гимназия](https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%BC%D0%BD%D0%B0%D0%B7%D0%B8%D1%8F_%E2%84%96_2_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%90._%D0%9F._%D0%A7%D0%B5%D1%85%D0%BE%D0%B2%D0%B0)
 - [Женская гимназия](https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%B8%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B3%D0%B8%D0%BC%D0%BD%D0%B0%D0%B7%D0%B8%D1%8F_(%D0%A2%D0%B0%D0%B3%D0%B0%D0%BD%D1%80%D0%BE%D0%B3))
 - [Старое кладбище](https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%B5_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B5_%D0%BA%D0%BB%D0%B0%D0%B4%D0%B1%D0%B8%D1%89%D0%B5_(%D0%A2%D0%B0%D0%B3%D0%B0%D0%BD%D1%80%D0%BE%D0%B3))
+- [Старое кладбище - проект энтузиастов](http://cemetery.su/)
 - [Петровские казармы](https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B5_%D0%BA%D0%B0%D0%B7%D0%B0%D1%80%D0%BC%D1%8B_(%D0%A2%D0%B0%D0%B3%D0%B0%D0%BD%D1%80%D0%BE%D0%B3))
 - [Городской Шлагбаум](https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B2%D0%B5%D1%80_%C2%AB%D0%A3_%D1%88%D0%BB%D0%B0%D0%B3%D0%B1%D0%B0%D1%83%D0%BC%D0%B0%C2%BB)
 - [Павловская крепость](https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C)
